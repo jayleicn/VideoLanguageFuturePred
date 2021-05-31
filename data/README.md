@@ -50,4 +50,4 @@ The download link for the VLEP files will be sent to you in around a week if you
 Please do not share the video frames with others.
 
 #### Evaluation
-Test split answers are reserved, please see [standalone_eval](../standalone_eval/README.md) for instructions on how to evaluate performance on test split..
+Test split answers are reserved, please see [standalone_eval](../standalone_eval/README.md) for instructions on how to evaluate performance on test split.
