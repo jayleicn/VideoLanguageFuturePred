@@ -21,9 +21,9 @@ At project root, run
 ```
 bash standalone_eval/eval_sample.sh 
 ```
-This command will use [eval.py](eval.py) to evaluate the provided `sample_dev_submission.json` file, 
+This command will use [eval.py](eval.py) to evaluate the provided `sample_dev_submission.jsonl` file, 
 the output will be written into `sample_dev_submission_metrics_new.json`. 
-Its content should be similar if not the same as `sample_dev_submission_metrics.json` file.
+Its content should be similar if not the same as `sample_dev_submission_metrics.jsonl` file.
 
 
 ### Codalab Submission
@@ -32,5 +32,5 @@ please submit both `dev` and `test` predictions to our
 [CodaLab evaluation server](https://competitions.codalab.org/competitions/26881). 
 The submission file should be a single `.zip ` file (no enclosing folder) 
 that contains the two prediction files 
-`vlep_test_submission.json` and `vlep_dev_submission.json`, each of the `*submission.json` file 
+`vlep_test_submission.jsonl` and `vlep_dev_submission.jsonl`, each of the `*submission.jsonl` file 
 should be formatted as instructed above. 
