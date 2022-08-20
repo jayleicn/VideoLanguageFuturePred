@@ -29,7 +29,7 @@ Its content should be similar if not the same as `sample_dev_submission_metrics.
 ### Codalab Submission
 To get your model's performance on `test` split, 
 please submit both `dev` and `test` predictions to our 
-[CodaLab evaluation server](https://competitions.codalab.org/competitions/26881). 
+[CodaLab evaluation server](https://codalab.lisn.upsaclay.fr/competitions/6938). 
 The submission file should be a single `.zip ` file (no enclosing folder) 
 that contains the two prediction files 
 `vlep_test_submission.jsonl` and `vlep_dev_submission.jsonl`, each of the `*submission.jsonl` file 
